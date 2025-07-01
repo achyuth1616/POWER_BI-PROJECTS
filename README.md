@@ -1,7 +1,7 @@
 📊 Social Media Analysis Dashboard (Power BI)
 This repository contains an interactive Power BI Dashboard designed for analyzing social media user engagement across multiple countries. The dashboard showcases insights derived from metrics such as Total Likes, Usage Duration, User Age, and Geographic Distribution.
 ![Dashboard Preview] https://github.com/achyuth1616/POWER_BI-PROJECTS/blob/main/socialmediaanalysispic.png
-
+![Dataset Preview] https://github.com/achyuth1616/POWER_BI-PROJECTS/blob/main/social-media%5B1%5D.csv
 
 🔍 Key Features
 Total Likes by Country: Bar chart visualization showing which countries generate the most likes.
